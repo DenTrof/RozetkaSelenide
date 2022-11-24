@@ -2,3 +2,4 @@ target/
 *.iml
 .idea/*
 src/main/resources/chromedriver.exe
+build/reports/tests
